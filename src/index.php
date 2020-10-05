@@ -1,1 +1,1 @@
-hello world - w new version, with webhook
+hello world - w new version, with webhook and autodeploy
