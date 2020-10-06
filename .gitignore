@@ -64,3 +64,5 @@ web-build/
 
 #terribly large Java files
 *.hprof
+
+.env
