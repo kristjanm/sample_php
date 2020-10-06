@@ -1,9 +1,7 @@
 <html>
 	<body>
 		<?php
-			print ("Hello world");
-			$response = file_get_contents('https://www.google.com');
-			print($response);	
+			echo 'API URL is ' .$_ENV["WEB_API_URL"] . ' and the port is ' .$_ENV["WEB_API_PORT"] . '!';
 		?> 
 	</body>
 </html>
